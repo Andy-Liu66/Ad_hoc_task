@@ -1,1 +1,1 @@
-# Run Curve fitting using different models for professor Yueh (2019/9/11).
+# Foward curve modeling, implementing the Nelson-Siegel-Svensson Model (assigned by professor Yueh, 2019/9/11).
